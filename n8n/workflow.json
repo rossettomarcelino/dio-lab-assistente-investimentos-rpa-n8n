@@ -1,0 +1,82 @@
+[
+  {
+    "nome": "Ana Silva",
+    "email": "ana@email.com",
+    "saldo": "R$ 12.500,00",
+    "perfil": "Conservador",
+    "diretrizEstatica": "Foco em renda fixa e segurança",
+    "mensagemCompleta": "Olá, Ana Silva! Tudo bem?\n\nAnalisamos o seu perfil de investidor (**Conservador**) e preparamos uma seleção especial para aplicar o seu saldo disponível de **R$ 12.500,00**.\n\n📌 **Diretriz do seu perfil:**\nFoco em renda fixa e segurança\n\n💡 **Opções recomendadas para o seu momento:**\n  • Poupança — Rentabilidade: 6.2%\n  • CDB Liquidez Diária — Rentabilidade: 12.5%\n  • Tesouro Selic — Rentabilidade: 13.0%\n\nDeseja realizar alguma dessas aplicações hoje ou tirar alguma dúvida com um especialista? Estamos à disposição!"
+  },
+  {
+    "nome": "Bruno Lima",
+    "email": "bruno@email.com",
+    "saldo": "R$ 3.200,00",
+    "perfil": "Moderado",
+    "diretrizEstatica": "Mix equilibrado entre renda fixa e variável",
+    "mensagemCompleta": "Olá, Bruno Lima! Tudo bem?\n\nAnalisamos o seu perfil de investidor (**Moderado**) e preparamos uma seleção especial para aplicar o seu saldo disponível de **R$ 3.200,00**.\n\n📌 **Diretriz do seu perfil:**\nMix equilibrado entre renda fixa e variável\n\n💡 **Opções recomendadas para o seu momento:**\n  • CDB Prefixado — Rentabilidade: 14.0%\n  • Fundo Multimercado — Rentabilidade: 16.0%\n  • Tesouro IPCA+ — Rentabilidade: IPCA+6.0%\n\nDeseja realizar alguma dessas aplicações hoje ou tirar alguma dúvida com um especialista? Estamos à disposição!"
+  },
+  {
+    "nome": "Carla Souza",
+    "email": "carla@email.com",
+    "saldo": "R$ 28.900,00",
+    "perfil": "Arrojado",
+    "diretrizEstatica": "Ênfase em ações e maior potencial de retorno",
+    "mensagemCompleta": "Olá, Carla Souza! Tudo bem?\n\nAnalisamos o seu perfil de investidor (**Arrojado**) e preparamos uma seleção especial para aplicar o seu saldo disponível de **R$ 28.900,00**.\n\n📌 **Diretriz do seu perfil:**\nÊnfase em ações e maior potencial de retorno\n\n💡 **Opções recomendadas para o seu momento:**\n  • Ações ETF — Rentabilidade: Variável\n  • Fundo de Ações — Rentabilidade: Variável\n  • Criptomoedas — Rentabilidade: Variável\n\nDeseja realizar alguma dessas aplicações hoje ou tirar alguma dúvida com um especialista? Estamos à disposição!"
+  },
+  {
+    "nome": "Daniel Oliveira",
+    "email": "daniel@email.com",
+    "saldo": "R$ 850,00",
+    "perfil": "Conservador",
+    "diretrizEstatica": "Foco em renda fixa e segurança",
+    "mensagemCompleta": "Olá, Daniel Oliveira! Tudo bem?\n\nAnalisamos o seu perfil de investidor (**Conservador**) e preparamos uma seleção especial para aplicar o seu saldo disponível de **R$ 850,00**.\n\n📌 **Diretriz do seu perfil:**\nFoco em renda fixa e segurança\n\n💡 **Opções recomendadas para o seu momento:**\n  • Poupança — Rentabilidade: 6.2%\n  • CDB Liquidez Diária — Rentabilidade: 12.5%\n  • Tesouro Selic — Rentabilidade: 13.0%\n\nDeseja realizar alguma dessas aplicações hoje ou tirar alguma dúvida com um especialista? Estamos à disposição!"
+  },
+  {
+    "nome": "Elena Rodrigues",
+    "email": "elena@email.com",
+    "saldo": "R$ 45.000,00",
+    "perfil": "Arrojado",
+    "diretrizEstatica": "Ênfase em ações e maior potencial de retorno",
+    "mensagemCompleta": "Olá, Elena Rodrigues! Tudo bem?\n\nAnalisamos o seu perfil de investidor (**Arrojado**) e preparamos uma seleção especial para aplicar o seu saldo disponível de **R$ 45.000,00**.\n\n📌 **Diretriz do seu perfil:**\nÊnfase em ações e maior potencial de retorno\n\n💡 **Opções recomendadas para o seu momento:**\n  • Ações ETF — Rentabilidade: Variável\n  • Fundo de Ações — Rentabilidade: Variável\n  • Criptomoedas — Rentabilidade: Variável\n\nDeseja realizar alguma dessas aplicações hoje ou tirar alguma dúvida com um especialista? Estamos à disposição!"
+  },
+  {
+    "nome": "Felipe Santos",
+    "email": "felipe@email.com",
+    "saldo": "R$ 7.800,00",
+    "perfil": "Moderado",
+    "diretrizEstatica": "Mix equilibrado entre renda fixa e variável",
+    "mensagemCompleta": "Olá, Felipe Santos! Tudo bem?\n\nAnalisamos o seu perfil de investidor (**Moderado**) e preparamos uma seleção especial para aplicar o seu saldo disponível de **R$ 7.800,00**.\n\n📌 **Diretriz do seu perfil:**\nMix equilibrado entre renda fixa e variável\n\n💡 **Opções recomendadas para o seu momento:**\n  • CDB Prefixado — Rentabilidade: 14.0%\n  • Fundo Multimercado — Rentabilidade: 16.0%\n  • Tesouro IPCA+ — Rentabilidade: IPCA+6.0%\n\nDeseja realizar alguma dessas aplicações hoje ou tirar alguma dúvida com um especialista? Estamos à disposição!"
+  },
+  {
+    "nome": "Gabriela Costa",
+    "email": "gabriela@email.com",
+    "saldo": "R$ 1.500,00",
+    "perfil": "Conservador",
+    "diretrizEstatica": "Foco em renda fixa e segurança",
+    "mensagemCompleta": "Olá, Gabriela Costa! Tudo bem?\n\nAnalisamos o seu perfil de investidor (**Conservador**) e preparamos uma seleção especial para aplicar o seu saldo disponível de **R$ 1.500,00**.\n\n📌 **Diretriz do seu perfil:**\nFoco em renda fixa e segurança\n\n💡 **Opções recomendadas para o seu momento:**\n  • Poupança — Rentabilidade: 6.2%\n  • CDB Liquidez Diária — Rentabilidade: 12.5%\n  • Tesouro Selic — Rentabilidade: 13.0%\n\nDeseja realizar alguma dessas aplicações hoje ou tirar alguma dúvida com um especialista? Estamos à disposição!"
+  },
+  {
+    "nome": "Henrique Alves",
+    "email": "henrique@email.com",
+    "saldo": "R$ 22.300,00",
+    "perfil": "Moderado",
+    "diretrizEstatica": "Mix equilibrado entre renda fixa e variável",
+    "mensagemCompleta": "Olá, Henrique Alves! Tudo bem?\n\nAnalisamos o seu perfil de investidor (**Moderado**) e preparamos uma seleção especial para aplicar o seu saldo disponível de **R$ 22.300,00**.\n\n📌 **Diretriz do seu perfil:**\nMix equilibrado entre renda fixa e variável\n\n💡 **Opções recomendadas para o seu momento:**\n  • CDB Prefixado — Rentabilidade: 14.0%\n  • Fundo Multimercado — Rentabilidade: 16.0%\n  • Tesouro IPCA+ — Rentabilidade: IPCA+6.0%\n\nDeseja realizar alguma dessas aplicações hoje ou tirar alguma dúvida com um especialista? Estamos à disposição!"
+  },
+  {
+    "nome": "Isabela Martins",
+    "email": "isabela@email.com",
+    "saldo": "R$ 500,00",
+    "perfil": "Conservador",
+    "diretrizEstatica": "Foco em renda fixa e segurança",
+    "mensagemCompleta": "Olá, Isabela Martins! Tudo bem?\n\nAnalisamos o seu perfil de investidor (**Conservador**) e preparamos uma seleção especial para aplicar o seu saldo disponível de **R$ 500,00**.\n\n📌 **Diretriz do seu perfil:**\nFoco em renda fixa e segurança\n\n💡 **Opções recomendadas para o seu momento:**\n  • Poupança — Rentabilidade: 6.2%\n  • CDB Liquidez Diária — Rentabilidade: 12.5%\n  • Tesouro Selic — Rentabilidade: 13.0%\n\nDeseja realizar alguma dessas aplicações hoje ou tirar alguma dúvida com um especialista? Estamos à disposição!"
+  },
+  {
+    "nome": "João Pereira",
+    "email": "joao@email.com",
+    "saldo": "R$ 15.000,00",
+    "perfil": "Arrojado",
+    "diretrizEstatica": "Ênfase em ações e maior potencial de retorno",
+    "mensagemCompleta": "Olá, João Pereira! Tudo bem?\n\nAnalisamos o seu perfil de investidor (**Arrojado**) e preparamos uma seleção especial para aplicar o seu saldo disponível de **R$ 15.000,00**.\n\n📌 **Diretriz do seu perfil:**\nÊnfase em ações e maior potencial de retorno\n\n💡 **Opções recomendadas para o seu momento:**\n  • Ações ETF — Rentabilidade: Variável\n  • Fundo de Ações — Rentabilidade: Variável\n  • Criptomoedas — Rentabilidade: Variável\n\nDeseja realizar alguma dessas aplicações hoje ou tirar alguma dúvida com um especialista? Estamos à disposição!"
+  }
+]
